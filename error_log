@@ -1,0 +1,13 @@
+[04-Jul-2013 18:32:19] PHP Fatal error:  Call to undefined function  get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/index.php on line 1
+[25-Sep-2013 16:40:51] PHP Fatal error:  Call to undefined function  get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/index.php on line 1
+[03-Feb-2015 23:50:30 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/404.php on line 6
+[27-Aug-2015 18:20:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/index.php on line 1
+[01-Jan-2016 13:53:40 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/404.php on line 6
+[11-Feb-2016 16:18:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/index.php on line 1
+[29-Feb-2016 13:25:02 America/Chicago] PHP Fatal error:  Call to undefined function wp_title() in /home/centurye/public_html/wp-content/themes/MESH_Starter/header.php on line 11
+[29-Feb-2016 13:25:02 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/centurye/public_html/wp-content/themes/MESH_Starter/functions.php on line 3
+[29-Feb-2016 13:25:02 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home/centurye/public_html/wp-content/themes/MESH_Starter/footer.php on line 20
+[29-Feb-2016 13:25:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/404.php on line 6
+[13-Mar-2016 09:59:53 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/centurye/public_html/wp-content/themes/MESH_Starter/functions.php on line 3
+[13-Mar-2016 09:59:54 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home/centurye/public_html/wp-content/themes/MESH_Starter/footer.php on line 20
+[14-Jun-2016 03:13:51 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/centurye/public_html/wp-content/themes/MESH_Starter/404.php on line 6
