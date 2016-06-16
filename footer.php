@@ -78,9 +78,8 @@
 						</li>
 						<li>
 								<p>
-								Email: <a href="mailto:info@centuryequities.com">info@centuryequities.com</a>
-								</p>
-								<p>	
+								Email: <a href="mailto:info@centuryequities.com">info@centuryequities.com</a></br>
+									
 									<a href="http://centuryequities.com/clients/">Client Resources</a>
 
 								</p>
