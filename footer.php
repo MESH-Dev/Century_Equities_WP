@@ -1,26 +1,7 @@
 	
 	<div id="footer">
 		<div class="container footer">	
-			<div class="two columns ">
-				<!-- <div class="menu-main-navigation-container">
-					<ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://centuryequities.com/about-us/">About Us</a>
-				<ul class="sub-menu">
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="http://centuryequities.com/about-us/who-we-are/">What We Do</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://centuryequities.com/about-us/executive-team/">Executive Team</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="http://centuryequities.com/about-us/history/">History</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://centuryequities.com/about-us/philosophy/">Philosophy</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="http://centuryequities.com/about-us/testimonials/">Testimonials</a></li>
-				</ul>
-				</li>
-				
-				
-				</ul></div>	 -->
-				<p class="linkedin">
-					<a href="https://www.linkedin.com/company/century-equities-inc." target-"_blank">
-						<img src="<?php bloginfo('template_url')?>\images\linked_in.png">
-					</a>	
-				</p>				
-			</div>
+			
 
 			<!-- <div class="two columns">
 				<div class="menu-main-navigation-container">
@@ -57,7 +38,7 @@
 			<!-- <div class="two columns "> 
 			</div> -->
 
-			<div class="nine columns  footer_contact">
+			<div class="ten columns  footer_contact">
 				<div class="border-left">
 					<h3>Contact Us Today</h3>
 					<ul class="footer-locations">
@@ -88,8 +69,32 @@
 				</div>
 			</div>
 
-			<div class="one columns footer_icon">
-				<a href="<?php bloginfo('url' ); ?>" title="Century Equitites"><img src="<?php bloginfo('template_url' ); ?>/images/footer-CE.png"></a>
+			<div class="two columns footer-social">
+				<!-- <div class="menu-main-navigation-container">
+					<ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://centuryequities.com/about-us/">About Us</a>
+				<ul class="sub-menu">
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="http://centuryequities.com/about-us/who-we-are/">What We Do</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://centuryequities.com/about-us/executive-team/">Executive Team</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="http://centuryequities.com/about-us/history/">History</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://centuryequities.com/about-us/philosophy/">Philosophy</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="http://centuryequities.com/about-us/testimonials/">Testimonials</a></li>
+				</ul>
+				</li>
+				
+				
+				</ul></div>	 -->
+						
+			
+
+			
+				<p><a href="<?php bloginfo('url' ); ?>" title="Century Equitites"><img src="<?php bloginfo('template_url' ); ?>/images/footer-CE.png"></a></p>
+
+				<p class="linkedin">
+					<a href="https://www.linkedin.com/company/century-equities-inc." target-"_blank">
+						<i class="fa fa-fw fa-2x fa-linkedin-square"></i>
+						<!-- <img src="<?php bloginfo('template_url')?>\images\linkedin-logo.png"> -->
+					</a>	
+				</p>		
 			</div>
 
 			<div class="twelve columns copyright">

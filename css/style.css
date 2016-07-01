@@ -1798,23 +1798,26 @@ a.more {
         /* line 624, ../sass/_layout.scss */
         .footer .footer_icon img {
           display: none; } }
+  /* line 629, ../sass/_layout.scss */
+  .footer .footer-social {
+    text-align: right; }
 
-/* line 630, ../sass/_layout.scss */
+/* line 634, ../sass/_layout.scss */
 .copyright {
   border-top: 1px solid #99a7b9;
   padding-top: 10px; }
 
-/* line 636, ../sass/_layout.scss */
+/* line 640, ../sass/_layout.scss */
 .mesh {
   float: right;
   margin-top: -38px; }
   @media only screen and (min-width: 480px) and (max-width: 767px) {
-    /* line 636, ../sass/_layout.scss */
+    /* line 640, ../sass/_layout.scss */
     .mesh {
       margin-top: 0px;
       float: left; } }
   @media only screen and (max-width: 479px) {
-    /* line 636, ../sass/_layout.scss */
+    /* line 640, ../sass/_layout.scss */
     .mesh {
       margin-top: 0px;
       float: left; } }
@@ -1822,15 +1825,15 @@ a.more {
 /* #Page Styles
 ================================================== */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-  /* line 656, ../sass/_layout.scss */
+  /* line 660, ../sass/_layout.scss */
   .leftcol {
     background-color: #ff0000; } }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  /* line 656, ../sass/_layout.scss */
+  /* line 660, ../sass/_layout.scss */
   .leftcol {
     background-color: #1234ff; } }
 @media only screen and (max-width: 479px) {
-  /* line 656, ../sass/_layout.scss */
+  /* line 660, ../sass/_layout.scss */
   .leftcol {
     background-color: #003366; } }
 
