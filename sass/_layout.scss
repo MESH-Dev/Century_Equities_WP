@@ -606,21 +606,25 @@ a.more{float:right; font-weight:bold; font-style: italic;}
 
 	.footer_icon{
 		//padding-top:140px;
-		position: absolute;
+		//position: absolute;
 	    right: 0;
 	    bottom: 50px;
+	    text-align:right;
 		@include breakpoint(smallscreen) {
  		//padding-top: 180px;
+
 		img {max-width:50px; }
 		}
 
 		@include breakpoint(landscape) { 
      		padding-top: 10px;
+     		text-align:left;
      		img {display:none; }
 	    }
 
 		@include breakpoint(portrait) { 
 		 	padding-top: 10px;
+		 	text-align:left;
 		 	img {display:none; }
 		}
 
@@ -628,6 +632,13 @@ a.more{float:right; font-weight:bold; font-style: italic;}
 
 	.footer-social{
 		text-align:right;
+		@include breakpoint(landscape) { 
+			text-align:left;
+		}
+		@include breakpoint(portrait) { 
+			text-align:left;
+		}
+
 	}
 }
 
